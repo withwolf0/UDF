@@ -1,0 +1,5 @@
+rcd noleakfinemeshunsteady.cas   
+file/auto/data 500
+solve/dual 60000 15                                       
+exit
+yes

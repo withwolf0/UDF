@@ -1,0 +1,5 @@
+rcd noleakfinemeshsteady.cas   
+file/auto/data 1000
+solve/iter 10000                                         
+exit
+yes

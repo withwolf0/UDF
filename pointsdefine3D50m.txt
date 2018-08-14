@@ -1,0 +1,530 @@
+surface/point-surface point-x000-y000-z000 0 0 0 
+solve/monitors/surface/set-monitor/point-x000-y000-z000 "Vertex Average"   pressure point-x000-y000-z000 () no no yes ".\\point-pressure0101.out" 1 y flow-time
+surface/point-surface point-x000-yn150-z000 0 -150 0 
+solve/monitors/surface/set-monitor/point-x000-yn150-z000 "Vertex Average"   pressure point-x000-yn150-z000 () no no yes ".\\point-pressure0102.out" 1 y flow-time
+surface/point-surface point-x000-yn100-z000 0 -100 0 
+solve/monitors/surface/set-monitor/point-x000-yn100-z000 "Vertex Average"   pressure point-x000-yn100-z000 () no no yes ".\\point-pressure0103.out" 1 y flow-time
+surface/point-surface point-x000-yn050-z000 0 -50 0 
+solve/monitors/surface/set-monitor/point-x000-yn050-z000 "Vertex Average"   pressure point-x000-yn050-z000 () no no yes ".\\point-pressure0104.out" 1 y flow-time
+
+surface/point-surface point-x000-y050-z000 0 50 0 
+solve/monitors/surface/set-monitor/point-x000-y050-z000 "Vertex Average"   pressure point-x000-y050-z000 () no no yes ".\\point-pressure0105.out" 1 y flow-time
+surface/point-surface point-x000-y100-z000 0 100 0 
+solve/monitors/surface/set-monitor/point-x000-y100-z000 "Vertex Average"   pressure point-x000-y100-z000 () no no yes ".\\point-pressure0106.out" 1 y flow-time
+surface/point-surface point-x000-y150-z000 0 150 0 
+solve/monitors/surface/set-monitor/point-x000-y150-z000 "Vertex Average"   pressure point-x000-y150-z000 () no no yes ".\\point-pressure0107.out" 1 y flow-time
+
+surface/point-surface point-x000-y000-zn150 0 0 -150 
+solve/monitors/surface/set-monitor/point-x000-y000-zn150 "Vertex Average"   pressure point-x000-y000-zn150 () no no yes ".\\point-pressure0108.out" 1 y flow-time
+surface/point-surface point-x000-y000-zn100 0 0 -100 
+solve/monitors/surface/set-monitor/point-x000-y000-zn100 "Vertex Average"   pressure point-x000-y000-zn100 () no no yes ".\\point-pressure0109.out" 1 y flow-time
+surface/point-surface point-x000-y000-zn050 0 0 -50 
+solve/monitors/surface/set-monitor/point-x000-y000-zn050 "Vertex Average"   pressure point-x000-y000-zn050 () no no yes ".\\point-pressure0110.out" 1 y flow-time
+
+surface/point-surface point-x000-y000-z050 0 0 50 
+solve/monitors/surface/set-monitor/point-x000-y000-z050 "Vertex Average"   pressure point-x000-y000-z050 () no no yes ".\\point-pressure0111.out" 1 y flow-time
+surface/point-surface point-x000-y000-z100 0 0 100 
+solve/monitors/surface/set-monitor/point-x000-y000-z100 "Vertex Average"   pressure point-x000-y000-z100 () no no yes ".\\point-pressure0112.out" 1 y flow-time
+surface/point-surface point-x000-y000-z150 0 0 150 
+solve/monitors/surface/set-monitor/point-x000-y000-z150 "Vertex Average"   pressure point-x000-y000-z150 () no no yes ".\\point-pressure0113.out" 1 y flow-time
+
+
+surface/point-surface point-x100-y000-z000 100 0 0 
+solve/monitors/surface/set-monitor/point-x100-y000-z000 "Vertex Average"   pressure point-x100-y000-z000 () no no yes ".\\point-pressure0201.out" 1 y flow-time
+surface/point-surface point-x100-yn150-z000 100 -150 0 
+solve/monitors/surface/set-monitor/point-x100-yn150-z000 "Vertex Average"   pressure point-x100-yn150-z000 () no no yes ".\\point-pressure0202.out" 1 y flow-time
+surface/point-surface point-x100-yn100-z000 100 -100 0 
+solve/monitors/surface/set-monitor/point-x100-yn100-z000 "Vertex Average"   pressure point-x100-yn100-z000 () no no yes ".\\point-pressure0203.out" 1 y flow-time
+surface/point-surface point-x100-yn050-z000 100 -50 0 
+solve/monitors/surface/set-monitor/point-x100-yn050-z000 "Vertex Average"   pressure point-x100-yn050-z000 () no no yes ".\\point-pressure0204.out" 1 y flow-time
+
+surface/point-surface point-x100-y050-z000 100 50 0 
+solve/monitors/surface/set-monitor/point-x100-y050-z000 "Vertex Average"   pressure point-x100-y050-z000 () no no yes ".\\point-pressure0205.out" 1 y flow-time
+surface/point-surface point-x100-y100-z000 100 100 0 
+solve/monitors/surface/set-monitor/point-x100-y100-z000 "Vertex Average"   pressure point-x100-y100-z000 () no no yes ".\\point-pressure0206.out" 1 y flow-time
+surface/point-surface point-x100-y150-z000 100 150 0 
+solve/monitors/surface/set-monitor/point-x100-y150-z000 "Vertex Average"   pressure point-x100-y150-z000 () no no yes ".\\point-pressure0207.out" 1 y flow-time
+
+surface/point-surface point-x100-y000-zn150 100 0 -150 
+solve/monitors/surface/set-monitor/point-x100-y000-zn150 "Vertex Average"   pressure point-x100-y000-zn150 () no no yes ".\\point-pressure0208.out" 1 y flow-time
+surface/point-surface point-x100-y000-zn100 100 0 -100 
+solve/monitors/surface/set-monitor/point-x100-y000-zn100 "Vertex Average"   pressure point-x100-y000-zn100 () no no yes ".\\point-pressure0209.out" 1 y flow-time
+surface/point-surface point-x100-y000-zn050 100 0 -50 
+solve/monitors/surface/set-monitor/point-x100-y000-zn050 "Vertex Average"   pressure point-x100-y000-zn050 () no no yes ".\\point-pressure0210.out" 1 y flow-time
+
+surface/point-surface point-x100-y000-z050 100 0 50 
+solve/monitors/surface/set-monitor/point-x100-y000-z050 "Vertex Average"   pressure point-x100-y000-z050 () no no yes ".\\point-pressure0211.out" 1 y flow-time
+surface/point-surface point-x100-y000-z100 100 0 100 
+solve/monitors/surface/set-monitor/point-x100-y000-z100 "Vertex Average"   pressure point-x100-y000-z100 () no no yes ".\\point-pressure0212.out" 1 y flow-time
+surface/point-surface point-x100-y000-z150 100 0 150 
+solve/monitors/surface/set-monitor/point-x100-y000-z150 "Vertex Average"   pressure point-x100-y000-z150 () no no yes ".\\point-pressure0213.out" 1 y flow-time
+
+
+surface/point-surface point-x5000-y000-z000 5000 0 0 
+solve/monitors/surface/set-monitor/point-x5000-y000-z000 "Vertex Average"   pressure point-x5000-y000-z000 () no no yes ".\\point-pressure0301.out" 1 y flow-time
+surface/point-surface point-x5000-yn150-z000 5000 -150 0 
+solve/monitors/surface/set-monitor/point-x5000-yn150-z000 "Vertex Average"   pressure point-x5000-yn150-z000 () no no yes ".\\point-pressure0302.out" 1 y flow-time
+surface/point-surface point-x5000-yn100-z000 5000 -100 0 
+solve/monitors/surface/set-monitor/point-x5000-yn100-z000 "Vertex Average"   pressure point-x5000-yn100-z000 () no no yes ".\\point-pressure0303.out" 1 y flow-time
+surface/point-surface point-x5000-yn050-z000 5000 -50 0 
+solve/monitors/surface/set-monitor/point-x5000-yn050-z000 "Vertex Average"   pressure point-x5000-yn050-z000 () no no yes ".\\point-pressure0304.out" 1 y flow-time
+
+surface/point-surface point-x5000-y050-z000 5000 50 0 
+solve/monitors/surface/set-monitor/point-x5000-y050-z000 "Vertex Average"   pressure point-x5000-y050-z000 () no no yes ".\\point-pressure0305.out" 1 y flow-time
+surface/point-surface point-x5000-y100-z000 5000 100 0 
+solve/monitors/surface/set-monitor/point-x5000-y100-z000 "Vertex Average"   pressure point-x5000-y100-z000 () no no yes ".\\point-pressure0306.out" 1 y flow-time
+surface/point-surface point-x5000-y150-z000 5000 150 0 
+solve/monitors/surface/set-monitor/point-x5000-y150-z000 "Vertex Average"   pressure point-x5000-y150-z000 () no no yes ".\\point-pressure0307.out" 1 y flow-time
+
+surface/point-surface point-x5000-y000-zn150 5000 0 -150 
+solve/monitors/surface/set-monitor/point-x5000-y000-zn150 "Vertex Average"   pressure point-x5000-y000-zn150 () no no yes ".\\point-pressure0308.out" 1 y flow-time
+surface/point-surface point-x5000-y000-zn100 5000 0 -100 
+solve/monitors/surface/set-monitor/point-x5000-y000-zn100 "Vertex Average"   pressure point-x5000-y000-zn100 () no no yes ".\\point-pressure0309.out" 1 y flow-time
+surface/point-surface point-x5000-y000-zn050 5000 0 -50 
+solve/monitors/surface/set-monitor/point-x5000-y000-zn050 "Vertex Average"   pressure point-x5000-y000-zn050 () no no yes ".\\point-pressure0310.out" 1 y flow-time
+
+surface/point-surface point-x5000-y000-z050 5000 0 50 
+solve/monitors/surface/set-monitor/point-x5000-y000-z050 "Vertex Average"   pressure point-x5000-y000-z050 () no no yes ".\\point-pressure0311.out" 1 y flow-time
+surface/point-surface point-x5000-y000-z100 5000 0 100 
+solve/monitors/surface/set-monitor/point-x5000-y000-z100 "Vertex Average"   pressure point-x5000-y000-z100 () no no yes ".\\point-pressure0312.out" 1 y flow-time
+surface/point-surface point-x5000-y000-z150 5000 0 150 
+solve/monitors/surface/set-monitor/point-x5000-y000-z150 "Vertex Average"   pressure point-x5000-y000-z150 () no no yes ".\\point-pressure0313.out" 1 y flow-time
+
+
+surface/point-surface point-x10000-y000-z000 10000 0 0 
+solve/monitors/surface/set-monitor/point-x10000-y000-z000 "Vertex Average"   pressure point-x10000-y000-z000 () no no yes ".\\point-pressure0401.out" 1 y flow-time
+surface/point-surface point-x10000-yn150-z000 10000 -150 0 
+solve/monitors/surface/set-monitor/point-x10000-yn150-z000 "Vertex Average"   pressure point-x10000-yn150-z000 () no no yes ".\\point-pressure0402.out" 1 y flow-time
+surface/point-surface point-x10000-yn100-z000 10000 -100 0 
+solve/monitors/surface/set-monitor/point-x10000-yn100-z000 "Vertex Average"   pressure point-x10000-yn100-z000 () no no yes ".\\point-pressure0403.out" 1 y flow-time
+surface/point-surface point-x10000-yn050-z000 10000 -50 0 
+solve/monitors/surface/set-monitor/point-x10000-yn050-z000 "Vertex Average"   pressure point-x10000-yn050-z000 () no no yes ".\\point-pressure0404.out" 1 y flow-time
+
+surface/point-surface point-x10000-y050-z000 10000 50 0 
+solve/monitors/surface/set-monitor/point-x10000-y050-z000 "Vertex Average"   pressure point-x10000-y050-z000 () no no yes ".\\point-pressure0405.out" 1 y flow-time
+surface/point-surface point-x10000-y100-z000 10000 100 0 
+solve/monitors/surface/set-monitor/point-x10000-y100-z000 "Vertex Average"   pressure point-x10000-y100-z000 () no no yes ".\\point-pressure0406.out" 1 y flow-time
+surface/point-surface point-x10000-y150-z000 10000 150 0 
+solve/monitors/surface/set-monitor/point-x10000-y150-z000 "Vertex Average"   pressure point-x10000-y150-z000 () no no yes ".\\point-pressure0407.out" 1 y flow-time
+
+surface/point-surface point-x10000-y000-zn150 10000 0 -150 
+solve/monitors/surface/set-monitor/point-x10000-y000-zn150 "Vertex Average"   pressure point-x10000-y000-zn150 () no no yes ".\\point-pressure0408.out" 1 y flow-time
+surface/point-surface point-x10000-y000-zn100 10000 0 -100 
+solve/monitors/surface/set-monitor/point-x10000-y000-zn100 "Vertex Average"   pressure point-x10000-y000-zn100 () no no yes ".\\point-pressure0409.out" 1 y flow-time
+surface/point-surface point-x10000-y000-zn050 10000 0 -50 
+solve/monitors/surface/set-monitor/point-x10000-y000-zn050 "Vertex Average"   pressure point-x10000-y000-zn050 () no no yes ".\\point-pressure0410.out" 1 y flow-time
+
+surface/point-surface point-x10000-y000-z050 10000 0 50 
+solve/monitors/surface/set-monitor/point-x10000-y000-z050 "Vertex Average"   pressure point-x10000-y000-z050 () no no yes ".\\point-pressure0411.out" 1 y flow-time
+surface/point-surface point-x10000-y000-z100 10000 0 100 
+solve/monitors/surface/set-monitor/point-x10000-y000-z100 "Vertex Average"   pressure point-x10000-y000-z100 () no no yes ".\\point-pressure0412.out" 1 y flow-time
+surface/point-surface point-x10000-y000-z150 10000 0 150 
+solve/monitors/surface/set-monitor/point-x10000-y000-z150 "Vertex Average"   pressure point-x10000-y000-z150 () no no yes ".\\point-pressure0413.out" 1 y flow-time
+
+
+surface/point-surface point-x15000-y000-z000 15000 0 0 
+solve/monitors/surface/set-monitor/point-x15000-y000-z000 "Vertex Average"   pressure point-x15000-y000-z000 () no no yes ".\\point-pressure0501.out" 1 y flow-time
+surface/point-surface point-x15000-yn150-z000 15000 -150 0 
+solve/monitors/surface/set-monitor/point-x15000-yn150-z000 "Vertex Average"   pressure point-x15000-yn150-z000 () no no yes ".\\point-pressure0502.out" 1 y flow-time
+surface/point-surface point-x15000-yn100-z000 15000 -100 0 
+solve/monitors/surface/set-monitor/point-x15000-yn100-z000 "Vertex Average"   pressure point-x15000-yn100-z000 () no no yes ".\\point-pressure0503.out" 1 y flow-time
+surface/point-surface point-x15000-yn050-z000 15000 -50 0 
+solve/monitors/surface/set-monitor/point-x15000-yn050-z000 "Vertex Average"   pressure point-x15000-yn050-z000 () no no yes ".\\point-pressure0504.out" 1 y flow-time
+
+surface/point-surface point-x15000-y050-z000 15000 50 0 
+solve/monitors/surface/set-monitor/point-x15000-y050-z000 "Vertex Average"   pressure point-x15000-y050-z000 () no no yes ".\\point-pressure0505.out" 1 y flow-time
+surface/point-surface point-x15000-y100-z000 15000 100 0 
+solve/monitors/surface/set-monitor/point-x15000-y100-z000 "Vertex Average"   pressure point-x15000-y100-z000 () no no yes ".\\point-pressure0506.out" 1 y flow-time
+surface/point-surface point-x15000-y150-z000 15000 150 0 
+solve/monitors/surface/set-monitor/point-x15000-y150-z000 "Vertex Average"   pressure point-x15000-y150-z000 () no no yes ".\\point-pressure0507.out" 1 y flow-time
+
+surface/point-surface point-x15000-y000-zn150 15000 0 -150 
+solve/monitors/surface/set-monitor/point-x15000-y000-zn150 "Vertex Average"   pressure point-x15000-y000-zn150 () no no yes ".\\point-pressure0508.out" 1 y flow-time
+surface/point-surface point-x15000-y000-zn100 15000 0 -100 
+solve/monitors/surface/set-monitor/point-x15000-y000-zn100 "Vertex Average"   pressure point-x15000-y000-zn100 () no no yes ".\\point-pressure0509.out" 1 y flow-time
+surface/point-surface point-x15000-y000-zn050 15000 0 -50 
+solve/monitors/surface/set-monitor/point-x15000-y000-zn050 "Vertex Average"   pressure point-x15000-y000-zn050 () no no yes ".\\point-pressure0510.out" 1 y flow-time
+
+surface/point-surface point-x15000-y000-z050 15000 0 50 
+solve/monitors/surface/set-monitor/point-x15000-y000-z050 "Vertex Average"   pressure point-x15000-y000-z050 () no no yes ".\\point-pressure0511.out" 1 y flow-time
+surface/point-surface point-x15000-y000-z100 15000 0 100 
+solve/monitors/surface/set-monitor/point-x15000-y000-z100 "Vertex Average"   pressure point-x15000-y000-z100 () no no yes ".\\point-pressure0512.out" 1 y flow-time
+surface/point-surface point-x15000-y000-z150 15000 0 150 
+solve/monitors/surface/set-monitor/point-x15000-y000-z150 "Vertex Average"   pressure point-x15000-y000-z150 () no no yes ".\\point-pressure0513.out" 1 y flow-time
+
+
+surface/point-surface point-x20000-y000-z000 20000 0 0 
+solve/monitors/surface/set-monitor/point-x20000-y000-z000 "Vertex Average"   pressure point-x20000-y000-z000 () no no yes ".\\point-pressure0601.out" 1 y flow-time
+surface/point-surface point-x20000-yn150-z000 20000 -150 0 
+solve/monitors/surface/set-monitor/point-x20000-yn150-z000 "Vertex Average"   pressure point-x20000-yn150-z000 () no no yes ".\\point-pressure0602.out" 1 y flow-time
+surface/point-surface point-x20000-yn100-z000 20000 -100 0 
+solve/monitors/surface/set-monitor/point-x20000-yn100-z000 "Vertex Average"   pressure point-x20000-yn100-z000 () no no yes ".\\point-pressure0603.out" 1 y flow-time
+surface/point-surface point-x20000-yn050-z000 20000 -50 0 
+solve/monitors/surface/set-monitor/point-x20000-yn050-z000 "Vertex Average"   pressure point-x20000-yn050-z000 () no no yes ".\\point-pressure0604.out" 1 y flow-time
+
+surface/point-surface point-x20000-y050-z000 20000 50 0 
+solve/monitors/surface/set-monitor/point-x20000-y050-z000 "Vertex Average"   pressure point-x20000-y050-z000 () no no yes ".\\point-pressure0605.out" 1 y flow-time
+surface/point-surface point-x20000-y100-z000 20000 100 0 
+solve/monitors/surface/set-monitor/point-x20000-y100-z000 "Vertex Average"   pressure point-x20000-y100-z000 () no no yes ".\\point-pressure0606.out" 1 y flow-time
+surface/point-surface point-x20000-y150-z000 20000 150 0 
+solve/monitors/surface/set-monitor/point-x20000-y150-z000 "Vertex Average"   pressure point-x20000-y150-z000 () no no yes ".\\point-pressure0607.out" 1 y flow-time
+
+surface/point-surface point-x20000-y000-zn150 20000 0 -150 
+solve/monitors/surface/set-monitor/point-x20000-y000-zn150 "Vertex Average"   pressure point-x20000-y000-zn150 () no no yes ".\\point-pressure0608.out" 1 y flow-time
+surface/point-surface point-x20000-y000-zn100 20000 0 -100 
+solve/monitors/surface/set-monitor/point-x20000-y000-zn100 "Vertex Average"   pressure point-x20000-y000-zn100 () no no yes ".\\point-pressure0609.out" 1 y flow-time
+surface/point-surface point-x20000-y000-zn050 20000 0 -50 
+solve/monitors/surface/set-monitor/point-x20000-y000-zn050 "Vertex Average"   pressure point-x20000-y000-zn050 () no no yes ".\\point-pressure0610.out" 1 y flow-time
+
+surface/point-surface point-x20000-y000-z050 20000 0 50 
+solve/monitors/surface/set-monitor/point-x20000-y000-z050 "Vertex Average"   pressure point-x20000-y000-z050 () no no yes ".\\point-pressure0611.out" 1 y flow-time
+surface/point-surface point-x20000-y000-z100 20000 0 100 
+solve/monitors/surface/set-monitor/point-x20000-y000-z100 "Vertex Average"   pressure point-x20000-y000-z100 () no no yes ".\\point-pressure0612.out" 1 y flow-time
+surface/point-surface point-x20000-y000-z150 20000 0 150 
+solve/monitors/surface/set-monitor/point-x20000-y000-z150 "Vertex Average"   pressure point-x20000-y000-z150 () no no yes ".\\point-pressure0613.out" 1 y flow-time
+
+
+surface/point-surface point-x24000-y000-z000 24000 0 0 
+solve/monitors/surface/set-monitor/point-x24000-y000-z000 "Vertex Average"   pressure point-x24000-y000-z000 () no no yes ".\\point-pressure0701.out" 1 y flow-time
+surface/point-surface point-x24000-yn150-z000 24000 -150 0 
+solve/monitors/surface/set-monitor/point-x24000-yn150-z000 "Vertex Average"   pressure point-x24000-yn150-z000 () no no yes ".\\point-pressure0702.out" 1 y flow-time
+surface/point-surface point-x24000-yn100-z000 24000 -100 0 
+solve/monitors/surface/set-monitor/point-x24000-yn100-z000 "Vertex Average"   pressure point-x24000-yn100-z000 () no no yes ".\\point-pressure0703.out" 1 y flow-time
+surface/point-surface point-x24000-yn050-z000 24000 -50 0 
+solve/monitors/surface/set-monitor/point-x24000-yn050-z000 "Vertex Average"   pressure point-x24000-yn050-z000 () no no yes ".\\point-pressure0704.out" 1 y flow-time
+
+surface/point-surface point-x24000-y050-z000 24000 50 0 
+solve/monitors/surface/set-monitor/point-x24000-y050-z000 "Vertex Average"   pressure point-x24000-y050-z000 () no no yes ".\\point-pressure0705.out" 1 y flow-time
+surface/point-surface point-x24000-y100-z000 24000 100 0 
+solve/monitors/surface/set-monitor/point-x24000-y100-z000 "Vertex Average"   pressure point-x24000-y100-z000 () no no yes ".\\point-pressure0706.out" 1 y flow-time
+surface/point-surface point-x24000-y150-z000 24000 150 0 
+solve/monitors/surface/set-monitor/point-x24000-y150-z000 "Vertex Average"   pressure point-x24000-y150-z000 () no no yes ".\\point-pressure0707.out" 1 y flow-time
+
+surface/point-surface point-x24000-y000-zn150 24000 0 -150 
+solve/monitors/surface/set-monitor/point-x24000-y000-zn150 "Vertex Average"   pressure point-x24000-y000-zn150 () no no yes ".\\point-pressure0708.out" 1 y flow-time
+surface/point-surface point-x24000-y000-zn100 24000 0 -100 
+solve/monitors/surface/set-monitor/point-x24000-y000-zn100 "Vertex Average"   pressure point-x24000-y000-zn100 () no no yes ".\\point-pressure0709.out" 1 y flow-time
+surface/point-surface point-x24000-y000-zn050 24000 0 -50 
+solve/monitors/surface/set-monitor/point-x24000-y000-zn050 "Vertex Average"   pressure point-x24000-y000-zn050 () no no yes ".\\point-pressure0710.out" 1 y flow-time
+
+surface/point-surface point-x24000-y000-z050 24000 0 50 
+solve/monitors/surface/set-monitor/point-x24000-y000-z050 "Vertex Average"   pressure point-x24000-y000-z050 () no no yes ".\\point-pressure0711.out" 1 y flow-time
+surface/point-surface point-x24000-y000-z100 24000 0 100 
+solve/monitors/surface/set-monitor/point-x24000-y000-z100 "Vertex Average"   pressure point-x24000-y000-z100 () no no yes ".\\point-pressure0712.out" 1 y flow-time
+surface/point-surface point-x24000-y000-z150 24000 0 150 
+solve/monitors/surface/set-monitor/point-x24000-y000-z150 "Vertex Average"   pressure point-x24000-y000-z150 () no no yes ".\\point-pressure0713.out" 1 y flow-time
+
+
+surface/point-surface point-x24990-y000-z000 24990 0 0 
+solve/monitors/surface/set-monitor/point-x24990-y000-z000 "Vertex Average"   pressure point-x24990-y000-z000 () no no yes ".\\point-pressure0801.out" 1 y flow-time
+surface/point-surface point-x24990-yn150-z000 24990 -150 0 
+solve/monitors/surface/set-monitor/point-x24990-yn150-z000 "Vertex Average"   pressure point-x24990-yn150-z000 () no no yes ".\\point-pressure0802.out" 1 y flow-time
+surface/point-surface point-x24990-yn100-z000 24990 -100 0 
+solve/monitors/surface/set-monitor/point-x24990-yn100-z000 "Vertex Average"   pressure point-x24990-yn100-z000 () no no yes ".\\point-pressure0803.out" 1 y flow-time
+surface/point-surface point-x24990-yn050-z000 24990 -50 0 
+solve/monitors/surface/set-monitor/point-x24990-yn050-z000 "Vertex Average"   pressure point-x24990-yn050-z000 () no no yes ".\\point-pressure0804.out" 1 y flow-time
+
+surface/point-surface point-x24990-y050-z000 24990 50 0 
+solve/monitors/surface/set-monitor/point-x24990-y050-z000 "Vertex Average"   pressure point-x24990-y050-z000 () no no yes ".\\point-pressure0805.out" 1 y flow-time
+surface/point-surface point-x24990-y100-z000 24990 100 0 
+solve/monitors/surface/set-monitor/point-x24990-y100-z000 "Vertex Average"   pressure point-x24990-y100-z000 () no no yes ".\\point-pressure0806.out" 1 y flow-time
+surface/point-surface point-x24990-y150-z000 24990 150 0 
+solve/monitors/surface/set-monitor/point-x24990-y150-z000 "Vertex Average"   pressure point-x24990-y150-z000 () no no yes ".\\point-pressure0807.out" 1 y flow-time
+
+surface/point-surface point-x24990-y000-zn150 24990 0 -150 
+solve/monitors/surface/set-monitor/point-x24990-y000-zn150 "Vertex Average"   pressure point-x24990-y000-zn150 () no no yes ".\\point-pressure0808.out" 1 y flow-time
+surface/point-surface point-x24990-y000-zn100 24990 0 -100 
+solve/monitors/surface/set-monitor/point-x24990-y000-zn100 "Vertex Average"   pressure point-x24990-y000-zn100 () no no yes ".\\point-pressure0809.out" 1 y flow-time
+surface/point-surface point-x24990-y000-zn050 24990 0 -50 
+solve/monitors/surface/set-monitor/point-x24990-y000-zn050 "Vertex Average"   pressure point-x24990-y000-zn050 () no no yes ".\\point-pressure0810.out" 1 y flow-time
+
+surface/point-surface point-x24990-y000-z050 24990 0 50 
+solve/monitors/surface/set-monitor/point-x24990-y000-z050 "Vertex Average"   pressure point-x24990-y000-z050 () no no yes ".\\point-pressure0811.out" 1 y flow-time
+surface/point-surface point-x24990-y000-z100 24990 0 100 
+solve/monitors/surface/set-monitor/point-x24990-y000-z100 "Vertex Average"   pressure point-x24990-y000-z100 () no no yes ".\\point-pressure0812.out" 1 y flow-time
+surface/point-surface point-x24990-y000-z150 24990 0 150 
+solve/monitors/surface/set-monitor/point-x24990-y000-z150 "Vertex Average"   pressure point-x24990-y000-z150 () no no yes ".\\point-pressure0813.out" 1 y flow-time
+
+
+surface/point-surface point-x25000-y000-z000 25000 0 0 
+solve/monitors/surface/set-monitor/point-x25000-y000-z000 "Vertex Average"   pressure point-x25000-y000-z000 () no no yes ".\\point-pressure0901.out" 1 y flow-time
+surface/point-surface point-x25000-yn150-z000 25000 -150 0 
+solve/monitors/surface/set-monitor/point-x25000-yn150-z000 "Vertex Average"   pressure point-x25000-yn150-z000 () no no yes ".\\point-pressure0902.out" 1 y flow-time
+surface/point-surface point-x25000-yn100-z000 25000 -100 0 
+solve/monitors/surface/set-monitor/point-x25000-yn100-z000 "Vertex Average"   pressure point-x25000-yn100-z000 () no no yes ".\\point-pressure0903.out" 1 y flow-time
+surface/point-surface point-x25000-yn050-z000 25000 -50 0 
+solve/monitors/surface/set-monitor/point-x25000-yn050-z000 "Vertex Average"   pressure point-x25000-yn050-z000 () no no yes ".\\point-pressure0904.out" 1 y flow-time
+
+surface/point-surface point-x25000-y050-z000 25000 50 0 
+solve/monitors/surface/set-monitor/point-x25000-y050-z000 "Vertex Average"   pressure point-x25000-y050-z000 () no no yes ".\\point-pressure0905.out" 1 y flow-time
+surface/point-surface point-x25000-y100-z000 25000 100 0 
+solve/monitors/surface/set-monitor/point-x25000-y100-z000 "Vertex Average"   pressure point-x25000-y100-z000 () no no yes ".\\point-pressure0906.out" 1 y flow-time
+surface/point-surface point-x25000-y150-z000 25000 150 0 
+solve/monitors/surface/set-monitor/point-x25000-y150-z000 "Vertex Average"   pressure point-x25000-y150-z000 () no no yes ".\\point-pressure0907.out" 1 y flow-time
+
+surface/point-surface point-x25000-y000-zn150 25000 0 -150 
+solve/monitors/surface/set-monitor/point-x25000-y000-zn150 "Vertex Average"   pressure point-x25000-y000-zn150 () no no yes ".\\point-pressure0908.out" 1 y flow-time
+surface/point-surface point-x25000-y000-zn100 25000 0 -100 
+solve/monitors/surface/set-monitor/point-x25000-y000-zn100 "Vertex Average"   pressure point-x25000-y000-zn100 () no no yes ".\\point-pressure0909.out" 1 y flow-time
+surface/point-surface point-x25000-y000-zn050 25000 0 -50 
+solve/monitors/surface/set-monitor/point-x25000-y000-zn050 "Vertex Average"   pressure point-x25000-y000-zn050 () no no yes ".\\point-pressure0910.out" 1 y flow-time
+
+surface/point-surface point-x25000-y000-z050 25000 0 50 
+solve/monitors/surface/set-monitor/point-x25000-y000-z050 "Vertex Average"   pressure point-x25000-y000-z050 () no no yes ".\\point-pressure0911.out" 1 y flow-time
+surface/point-surface point-x25000-y000-z100 25000 0 100 
+solve/monitors/surface/set-monitor/point-x25000-y000-z100 "Vertex Average"   pressure point-x25000-y000-z100 () no no yes ".\\point-pressure0912.out" 1 y flow-time
+surface/point-surface point-x25000-y000-z150 25000 0 150 
+solve/monitors/surface/set-monitor/point-x25000-y000-z150 "Vertex Average"   pressure point-x25000-y000-z150 () no no yes ".\\point-pressure0913.out" 1 y flow-time
+
+
+surface/point-surface point-x25010-y000-z000 25010 0 0 
+solve/monitors/surface/set-monitor/point-x25010-y000-z000 "Vertex Average"   pressure point-x25010-y000-z000 () no no yes ".\\point-pressure1001.out" 1 y flow-time
+surface/point-surface point-x25010-yn150-z000 25010 -150 0 
+solve/monitors/surface/set-monitor/point-x25010-yn150-z000 "Vertex Average"   pressure point-x25010-yn150-z000 () no no yes ".\\point-pressure1002.out" 1 y flow-time
+surface/point-surface point-x25010-yn100-z000 25010 -100 0 
+solve/monitors/surface/set-monitor/point-x25010-yn100-z000 "Vertex Average"   pressure point-x25010-yn100-z000 () no no yes ".\\point-pressure1003.out" 1 y flow-time
+surface/point-surface point-x25010-yn050-z000 25010 -50 0 
+solve/monitors/surface/set-monitor/point-x25010-yn050-z000 "Vertex Average"   pressure point-x25010-yn050-z000 () no no yes ".\\point-pressure1004.out" 1 y flow-time
+
+surface/point-surface point-x25010-y050-z000 25010 50 0 
+solve/monitors/surface/set-monitor/point-x25010-y050-z000 "Vertex Average"   pressure point-x25010-y050-z000 () no no yes ".\\point-pressure1005.out" 1 y flow-time
+surface/point-surface point-x25010-y100-z000 25010 100 0 
+solve/monitors/surface/set-monitor/point-x25010-y100-z000 "Vertex Average"   pressure point-x25010-y100-z000 () no no yes ".\\point-pressure1006.out" 1 y flow-time
+surface/point-surface point-x25010-y150-z000 25010 150 0 
+solve/monitors/surface/set-monitor/point-x25010-y150-z000 "Vertex Average"   pressure point-x25010-y150-z000 () no no yes ".\\point-pressure1007.out" 1 y flow-time
+
+surface/point-surface point-x25010-y000-zn150 25010 0 -150 
+solve/monitors/surface/set-monitor/point-x25010-y000-zn150 "Vertex Average"   pressure point-x25010-y000-zn150 () no no yes ".\\point-pressure1008.out" 1 y flow-time
+surface/point-surface point-x25010-y000-zn100 25010 0 -100 
+solve/monitors/surface/set-monitor/point-x25010-y000-zn100 "Vertex Average"   pressure point-x25010-y000-zn100 () no no yes ".\\point-pressure1009.out" 1 y flow-time
+surface/point-surface point-x25010-y000-zn050 25010 0 -50 
+solve/monitors/surface/set-monitor/point-x25010-y000-zn050 "Vertex Average"   pressure point-x25010-y000-zn050 () no no yes ".\\point-pressure1010.out" 1 y flow-time
+
+surface/point-surface point-x25010-y000-z050 25010 0 50 
+solve/monitors/surface/set-monitor/point-x25010-y000-z050 "Vertex Average"   pressure point-x25010-y000-z050 () no no yes ".\\point-pressure1011.out" 1 y flow-time
+surface/point-surface point-x25010-y000-z100 25010 0 100 
+solve/monitors/surface/set-monitor/point-x25010-y000-z100 "Vertex Average"   pressure point-x25010-y000-z100 () no no yes ".\\point-pressure1012.out" 1 y flow-time
+surface/point-surface point-x25010-y000-z150 25010 0 150 
+solve/monitors/surface/set-monitor/point-x25010-y000-z150 "Vertex Average"   pressure point-x25010-y000-z150 () no no yes ".\\point-pressure1013.out" 1 y flow-time
+
+
+surface/point-surface point-x26000-y000-z000 26000 0 0 
+solve/monitors/surface/set-monitor/point-x26000-y000-z000 "Vertex Average"   pressure point-x26000-y000-z000 () no no yes ".\\point-pressure1101.out" 1 y flow-time
+surface/point-surface point-x26000-yn150-z000 26000 -150 0 
+solve/monitors/surface/set-monitor/point-x26000-yn150-z000 "Vertex Average"   pressure point-x26000-yn150-z000 () no no yes ".\\point-pressure1102.out" 1 y flow-time
+surface/point-surface point-x26000-yn100-z000 26000 -100 0 
+solve/monitors/surface/set-monitor/point-x26000-yn100-z000 "Vertex Average"   pressure point-x26000-yn100-z000 () no no yes ".\\point-pressure1103.out" 1 y flow-time
+surface/point-surface point-x26000-yn050-z000 26000 -50 0 
+solve/monitors/surface/set-monitor/point-x26000-yn050-z000 "Vertex Average"   pressure point-x26000-yn050-z000 () no no yes ".\\point-pressure1104.out" 1 y flow-time
+
+surface/point-surface point-x26000-y050-z000 26000 50 0 
+solve/monitors/surface/set-monitor/point-x26000-y050-z000 "Vertex Average"   pressure point-x26000-y050-z000 () no no yes ".\\point-pressure1105.out" 1 y flow-time
+surface/point-surface point-x26000-y100-z000 26000 100 0 
+solve/monitors/surface/set-monitor/point-x26000-y100-z000 "Vertex Average"   pressure point-x26000-y100-z000 () no no yes ".\\point-pressure1106.out" 1 y flow-time
+surface/point-surface point-x26000-y150-z000 26000 150 0 
+solve/monitors/surface/set-monitor/point-x26000-y150-z000 "Vertex Average"   pressure point-x26000-y150-z000 () no no yes ".\\point-pressure1107.out" 1 y flow-time
+
+surface/point-surface point-x26000-y000-zn150 26000 0 -150 
+solve/monitors/surface/set-monitor/point-x26000-y000-zn150 "Vertex Average"   pressure point-x26000-y000-zn150 () no no yes ".\\point-pressure1108.out" 1 y flow-time
+surface/point-surface point-x26000-y000-zn100 26000 0 -100 
+solve/monitors/surface/set-monitor/point-x26000-y000-zn100 "Vertex Average"   pressure point-x26000-y000-zn100 () no no yes ".\\point-pressure1109.out" 1 y flow-time
+surface/point-surface point-x26000-y000-zn050 26000 0 -50 
+solve/monitors/surface/set-monitor/point-x26000-y000-zn050 "Vertex Average"   pressure point-x26000-y000-zn050 () no no yes ".\\point-pressure1110.out" 1 y flow-time
+
+surface/point-surface point-x26000-y000-z050 26000 0 50 
+solve/monitors/surface/set-monitor/point-x26000-y000-z050 "Vertex Average"   pressure point-x26000-y000-z050 () no no yes ".\\point-pressure1111.out" 1 y flow-time
+surface/point-surface point-x26000-y000-z100 26000 0 100 
+solve/monitors/surface/set-monitor/point-x26000-y000-z100 "Vertex Average"   pressure point-x26000-y000-z100 () no no yes ".\\point-pressure1112.out" 1 y flow-time
+surface/point-surface point-x26000-y000-z150 26000 0 150 
+solve/monitors/surface/set-monitor/point-x26000-y000-z150 "Vertex Average"   pressure point-x26000-y000-z150 () no no yes ".\\point-pressure1113.out" 1 y flow-time
+
+
+surface/point-surface point-x30000-y000-z000 30000 0 0 
+solve/monitors/surface/set-monitor/point-x30000-y000-z000 "Vertex Average"   pressure point-x30000-y000-z000 () no no yes ".\\point-pressure1201.out" 1 y flow-time
+surface/point-surface point-x30000-yn150-z000 30000 -150 0 
+solve/monitors/surface/set-monitor/point-x30000-yn150-z000 "Vertex Average"   pressure point-x30000-yn150-z000 () no no yes ".\\point-pressure1202.out" 1 y flow-time
+surface/point-surface point-x30000-yn100-z000 30000 -100 0 
+solve/monitors/surface/set-monitor/point-x30000-yn100-z000 "Vertex Average"   pressure point-x30000-yn100-z000 () no no yes ".\\point-pressure1203.out" 1 y flow-time
+surface/point-surface point-x30000-yn050-z000 30000 -50 0 
+solve/monitors/surface/set-monitor/point-x30000-yn050-z000 "Vertex Average"   pressure point-x30000-yn050-z000 () no no yes ".\\point-pressure1204.out" 1 y flow-time
+
+surface/point-surface point-x30000-y050-z000 30000 50 0 
+solve/monitors/surface/set-monitor/point-x30000-y050-z000 "Vertex Average"   pressure point-x30000-y050-z000 () no no yes ".\\point-pressure1205.out" 1 y flow-time
+surface/point-surface point-x30000-y100-z000 30000 100 0 
+solve/monitors/surface/set-monitor/point-x30000-y100-z000 "Vertex Average"   pressure point-x30000-y100-z000 () no no yes ".\\point-pressure1206.out" 1 y flow-time
+surface/point-surface point-x30000-y150-z000 30000 150 0 
+solve/monitors/surface/set-monitor/point-x30000-y150-z000 "Vertex Average"   pressure point-x30000-y150-z000 () no no yes ".\\point-pressure1207.out" 1 y flow-time
+
+surface/point-surface point-x30000-y000-zn150 30000 0 -150 
+solve/monitors/surface/set-monitor/point-x30000-y000-zn150 "Vertex Average"   pressure point-x30000-y000-zn150 () no no yes ".\\point-pressure1208.out" 1 y flow-time
+surface/point-surface point-x30000-y000-zn100 30000 0 -100 
+solve/monitors/surface/set-monitor/point-x30000-y000-zn100 "Vertex Average"   pressure point-x30000-y000-zn100 () no no yes ".\\point-pressure1209.out" 1 y flow-time
+surface/point-surface point-x30000-y000-zn050 30000 0 -50 
+solve/monitors/surface/set-monitor/point-x30000-y000-zn050 "Vertex Average"   pressure point-x30000-y000-zn050 () no no yes ".\\point-pressure1210.out" 1 y flow-time
+
+surface/point-surface point-x30000-y000-z050 30000 0 50 
+solve/monitors/surface/set-monitor/point-x30000-y000-z050 "Vertex Average"   pressure point-x30000-y000-z050 () no no yes ".\\point-pressure1211.out" 1 y flow-time
+surface/point-surface point-x30000-y000-z100 30000 0 100 
+solve/monitors/surface/set-monitor/point-x30000-y000-z100 "Vertex Average"   pressure point-x30000-y000-z100 () no no yes ".\\point-pressure1212.out" 1 y flow-time
+surface/point-surface point-x30000-y000-z150 30000 0 150 
+solve/monitors/surface/set-monitor/point-x30000-y000-z150 "Vertex Average"   pressure point-x30000-y000-z150 () no no yes ".\\point-pressure1213.out" 1 y flow-time
+
+
+surface/point-surface point-x35000-y000-z000 35000 0 0 
+solve/monitors/surface/set-monitor/point-x35000-y000-z000 "Vertex Average"   pressure point-x35000-y000-z000 () no no yes ".\\point-pressure1301.out" 1 y flow-time
+surface/point-surface point-x35000-yn150-z000 35000 -150 0 
+solve/monitors/surface/set-monitor/point-x35000-yn150-z000 "Vertex Average"   pressure point-x35000-yn150-z000 () no no yes ".\\point-pressure1302.out" 1 y flow-time
+surface/point-surface point-x35000-yn100-z000 35000 -100 0 
+solve/monitors/surface/set-monitor/point-x35000-yn100-z000 "Vertex Average"   pressure point-x35000-yn100-z000 () no no yes ".\\point-pressure1303.out" 1 y flow-time
+surface/point-surface point-x35000-yn050-z000 35000 -50 0 
+solve/monitors/surface/set-monitor/point-x35000-yn050-z000 "Vertex Average"   pressure point-x35000-yn050-z000 () no no yes ".\\point-pressure1304.out" 1 y flow-time
+
+surface/point-surface point-x35000-y050-z000 35000 50 0 
+solve/monitors/surface/set-monitor/point-x35000-y050-z000 "Vertex Average"   pressure point-x35000-y050-z000 () no no yes ".\\point-pressure1305.out" 1 y flow-time
+surface/point-surface point-x35000-y100-z000 35000 100 0 
+solve/monitors/surface/set-monitor/point-x35000-y100-z000 "Vertex Average"   pressure point-x35000-y100-z000 () no no yes ".\\point-pressure1306.out" 1 y flow-time
+surface/point-surface point-x35000-y150-z000 35000 150 0 
+solve/monitors/surface/set-monitor/point-x35000-y150-z000 "Vertex Average"   pressure point-x35000-y150-z000 () no no yes ".\\point-pressure1307.out" 1 y flow-time
+
+surface/point-surface point-x35000-y000-zn150 35000 0 -150 
+solve/monitors/surface/set-monitor/point-x35000-y000-zn150 "Vertex Average"   pressure point-x35000-y000-zn150 () no no yes ".\\point-pressure1308.out" 1 y flow-time
+surface/point-surface point-x35000-y000-zn100 35000 0 -100 
+solve/monitors/surface/set-monitor/point-x35000-y000-zn100 "Vertex Average"   pressure point-x35000-y000-zn100 () no no yes ".\\point-pressure1309.out" 1 y flow-time
+surface/point-surface point-x35000-y000-zn050 35000 0 -50 
+solve/monitors/surface/set-monitor/point-x35000-y000-zn050 "Vertex Average"   pressure point-x35000-y000-zn050 () no no yes ".\\point-pressure1310.out" 1 y flow-time
+
+surface/point-surface point-x35000-y000-z050 35000 0 50 
+solve/monitors/surface/set-monitor/point-x35000-y000-z050 "Vertex Average"   pressure point-x35000-y000-z050 () no no yes ".\\point-pressure1311.out" 1 y flow-time
+surface/point-surface point-x35000-y000-z100 35000 0 100 
+solve/monitors/surface/set-monitor/point-x35000-y000-z100 "Vertex Average"   pressure point-x35000-y000-z100 () no no yes ".\\point-pressure1312.out" 1 y flow-time
+surface/point-surface point-x35000-y000-z150 35000 0 150 
+solve/monitors/surface/set-monitor/point-x35000-y000-z150 "Vertex Average"   pressure point-x35000-y000-z150 () no no yes ".\\point-pressure1313.out" 1 y flow-time
+
+
+surface/point-surface point-x40000-y000-z000 40000 0 0 
+solve/monitors/surface/set-monitor/point-x40000-y000-z000 "Vertex Average"   pressure point-x40000-y000-z000 () no no yes ".\\point-pressure1401.out" 1 y flow-time
+surface/point-surface point-x40000-yn150-z000 40000 -150 0 
+solve/monitors/surface/set-monitor/point-x40000-yn150-z000 "Vertex Average"   pressure point-x40000-yn150-z000 () no no yes ".\\point-pressure1402.out" 1 y flow-time
+surface/point-surface point-x40000-yn100-z000 40000 -100 0 
+solve/monitors/surface/set-monitor/point-x40000-yn100-z000 "Vertex Average"   pressure point-x40000-yn100-z000 () no no yes ".\\point-pressure1403.out" 1 y flow-time
+surface/point-surface point-x40000-yn050-z000 40000 -50 0 
+solve/monitors/surface/set-monitor/point-x40000-yn050-z000 "Vertex Average"   pressure point-x40000-yn050-z000 () no no yes ".\\point-pressure1404.out" 1 y flow-time
+
+surface/point-surface point-x40000-y050-z000 40000 50 0 
+solve/monitors/surface/set-monitor/point-x40000-y050-z000 "Vertex Average"   pressure point-x40000-y050-z000 () no no yes ".\\point-pressure1405.out" 1 y flow-time
+surface/point-surface point-x40000-y100-z000 40000 100 0 
+solve/monitors/surface/set-monitor/point-x40000-y100-z000 "Vertex Average"   pressure point-x40000-y100-z000 () no no yes ".\\point-pressure1406.out" 1 y flow-time
+surface/point-surface point-x40000-y150-z000 40000 150 0 
+solve/monitors/surface/set-monitor/point-x40000-y150-z000 "Vertex Average"   pressure point-x40000-y150-z000 () no no yes ".\\point-pressure1407.out" 1 y flow-time
+
+surface/point-surface point-x40000-y000-zn150 40000 0 -150 
+solve/monitors/surface/set-monitor/point-x40000-y000-zn150 "Vertex Average"   pressure point-x40000-y000-zn150 () no no yes ".\\point-pressure1408.out" 1 y flow-time
+surface/point-surface point-x40000-y000-zn100 40000 0 -100 
+solve/monitors/surface/set-monitor/point-x40000-y000-zn100 "Vertex Average"   pressure point-x40000-y000-zn100 () no no yes ".\\point-pressure1409.out" 1 y flow-time
+surface/point-surface point-x40000-y000-zn050 40000 0 -50 
+solve/monitors/surface/set-monitor/point-x40000-y000-zn050 "Vertex Average"   pressure point-x40000-y000-zn050 () no no yes ".\\point-pressure1410.out" 1 y flow-time
+
+surface/point-surface point-x40000-y000-z050 40000 0 50 
+solve/monitors/surface/set-monitor/point-x40000-y000-z050 "Vertex Average"   pressure point-x40000-y000-z050 () no no yes ".\\point-pressure1411.out" 1 y flow-time
+surface/point-surface point-x40000-y000-z100 40000 0 100 
+solve/monitors/surface/set-monitor/point-x40000-y000-z100 "Vertex Average"   pressure point-x40000-y000-z100 () no no yes ".\\point-pressure1412.out" 1 y flow-time
+surface/point-surface point-x40000-y000-z150 40000 0 150 
+solve/monitors/surface/set-monitor/point-x40000-y000-z150 "Vertex Average"   pressure point-x40000-y000-z150 () no no yes ".\\point-pressure1413.out" 1 y flow-time
+
+
+surface/point-surface point-x45000-y000-z000 45000 0 0 
+solve/monitors/surface/set-monitor/point-x45000-y000-z000 "Vertex Average"   pressure point-x45000-y000-z000 () no no yes ".\\point-pressure1501.out" 1 y flow-time
+surface/point-surface point-x45000-yn150-z000 45000 -150 0 
+solve/monitors/surface/set-monitor/point-x45000-yn150-z000 "Vertex Average"   pressure point-x45000-yn150-z000 () no no yes ".\\point-pressure1502.out" 1 y flow-time
+surface/point-surface point-x45000-yn100-z000 45000 -100 0 
+solve/monitors/surface/set-monitor/point-x45000-yn100-z000 "Vertex Average"   pressure point-x45000-yn100-z000 () no no yes ".\\point-pressure1503.out" 1 y flow-time
+surface/point-surface point-x45000-yn050-z000 45000 -50 0 
+solve/monitors/surface/set-monitor/point-x45000-yn050-z000 "Vertex Average"   pressure point-x45000-yn050-z000 () no no yes ".\\point-pressure1504.out" 1 y flow-time
+
+surface/point-surface point-x45000-y050-z000 45000 50 0 
+solve/monitors/surface/set-monitor/point-x45000-y050-z000 "Vertex Average"   pressure point-x45000-y050-z000 () no no yes ".\\point-pressure1505.out" 1 y flow-time
+surface/point-surface point-x45000-y100-z000 45000 100 0 
+solve/monitors/surface/set-monitor/point-x45000-y100-z000 "Vertex Average"   pressure point-x45000-y100-z000 () no no yes ".\\point-pressure1506.out" 1 y flow-time
+surface/point-surface point-x45000-y150-z000 45000 150 0 
+solve/monitors/surface/set-monitor/point-x45000-y150-z000 "Vertex Average"   pressure point-x45000-y150-z000 () no no yes ".\\point-pressure1507.out" 1 y flow-time
+
+surface/point-surface point-x45000-y000-zn150 45000 0 -150 
+solve/monitors/surface/set-monitor/point-x45000-y000-zn150 "Vertex Average"   pressure point-x45000-y000-zn150 () no no yes ".\\point-pressure1508.out" 1 y flow-time
+surface/point-surface point-x45000-y000-zn100 45000 0 -100 
+solve/monitors/surface/set-monitor/point-x45000-y000-zn100 "Vertex Average"   pressure point-x45000-y000-zn100 () no no yes ".\\point-pressure1509.out" 1 y flow-time
+surface/point-surface point-x45000-y000-zn050 45000 0 -50 
+solve/monitors/surface/set-monitor/point-x45000-y000-zn050 "Vertex Average"   pressure point-x45000-y000-zn050 () no no yes ".\\point-pressure1510.out" 1 y flow-time
+
+surface/point-surface point-x45000-y000-z050 45000 0 50 
+solve/monitors/surface/set-monitor/point-x45000-y000-z050 "Vertex Average"   pressure point-x45000-y000-z050 () no no yes ".\\point-pressure1511.out" 1 y flow-time
+surface/point-surface point-x45000-y000-z100 45000 0 100 
+solve/monitors/surface/set-monitor/point-x45000-y000-z100 "Vertex Average"   pressure point-x45000-y000-z100 () no no yes ".\\point-pressure1512.out" 1 y flow-time
+surface/point-surface point-x45000-y000-z150 45000 0 150 
+solve/monitors/surface/set-monitor/point-x45000-y000-z150 "Vertex Average"   pressure point-x45000-y000-z150 () no no yes ".\\point-pressure1513.out" 1 y flow-time
+
+
+surface/point-surface point-x49900-y000-z000 49900 0 0 
+solve/monitors/surface/set-monitor/point-x49900-y000-z000 "Vertex Average"   pressure point-x49900-y000-z000 () no no yes ".\\point-pressure1601.out" 1 y flow-time
+surface/point-surface point-x49900-yn150-z000 49900 -150 0 
+solve/monitors/surface/set-monitor/point-x49900-yn150-z000 "Vertex Average"   pressure point-x49900-yn150-z000 () no no yes ".\\point-pressure1602.out" 1 y flow-time
+surface/point-surface point-x49900-yn100-z000 49900 -100 0 
+solve/monitors/surface/set-monitor/point-x49900-yn100-z000 "Vertex Average"   pressure point-x49900-yn100-z000 () no no yes ".\\point-pressure1603.out" 1 y flow-time
+surface/point-surface point-x49900-yn050-z000 49900 -50 0 
+solve/monitors/surface/set-monitor/point-x49900-yn050-z000 "Vertex Average"   pressure point-x49900-yn050-z000 () no no yes ".\\point-pressure1604.out" 1 y flow-time
+
+surface/point-surface point-x49900-y050-z000 49900 50 0 
+solve/monitors/surface/set-monitor/point-x49900-y050-z000 "Vertex Average"   pressure point-x49900-y050-z000 () no no yes ".\\point-pressure1605.out" 1 y flow-time
+surface/point-surface point-x49900-y100-z000 49900 100 0 
+solve/monitors/surface/set-monitor/point-x49900-y100-z000 "Vertex Average"   pressure point-x49900-y100-z000 () no no yes ".\\point-pressure1606.out" 1 y flow-time
+surface/point-surface point-x49900-y150-z000 49900 150 0 
+solve/monitors/surface/set-monitor/point-x49900-y150-z000 "Vertex Average"   pressure point-x49900-y150-z000 () no no yes ".\\point-pressure1607.out" 1 y flow-time
+
+surface/point-surface point-x49900-y000-zn150 49900 0 -150 
+solve/monitors/surface/set-monitor/point-x49900-y000-zn150 "Vertex Average"   pressure point-x49900-y000-zn150 () no no yes ".\\point-pressure1608.out" 1 y flow-time
+surface/point-surface point-x49900-y000-zn100 49900 0 -100 
+solve/monitors/surface/set-monitor/point-x49900-y000-zn100 "Vertex Average"   pressure point-x49900-y000-zn100 () no no yes ".\\point-pressure1609.out" 1 y flow-time
+surface/point-surface point-x49900-y000-zn050 49900 0 -50 
+solve/monitors/surface/set-monitor/point-x49900-y000-zn050 "Vertex Average"   pressure point-x49900-y000-zn050 () no no yes ".\\point-pressure1610.out" 1 y flow-time
+
+surface/point-surface point-x49900-y000-z050 49900 0 50 
+solve/monitors/surface/set-monitor/point-x49900-y000-z050 "Vertex Average"   pressure point-x49900-y000-z050 () no no yes ".\\point-pressure1611.out" 1 y flow-time
+surface/point-surface point-x49900-y000-z100 49900 0 100 
+solve/monitors/surface/set-monitor/point-x49900-y000-z100 "Vertex Average"   pressure point-x49900-y000-z100 () no no yes ".\\point-pressure1612.out" 1 y flow-time
+surface/point-surface point-x49900-y000-z150 49900 0 150 
+solve/monitors/surface/set-monitor/point-x49900-y000-z150 "Vertex Average"   pressure point-x49900-y000-z150 () no no yes ".\\point-pressure1613.out" 1 y flow-time
+
+
+surface/point-surface point-x50000-y000-z000 50000 0 0 
+solve/monitors/surface/set-monitor/point-x50000-y000-z000 "Vertex Average"   pressure point-x50000-y000-z000 () no no yes ".\\point-pressure1701.out" 1 y flow-time
+surface/point-surface point-x50000-yn150-z000 50000 -150 0 
+solve/monitors/surface/set-monitor/point-x50000-yn150-z000 "Vertex Average"   pressure point-x50000-yn150-z000 () no no yes ".\\point-pressure1702.out" 1 y flow-time
+surface/point-surface point-x50000-yn100-z000 50000 -100 0 
+solve/monitors/surface/set-monitor/point-x50000-yn100-z000 "Vertex Average"   pressure point-x50000-yn100-z000 () no no yes ".\\point-pressure1703.out" 1 y flow-time
+surface/point-surface point-x50000-yn050-z000 50000 -50 0 
+solve/monitors/surface/set-monitor/point-x50000-yn050-z000 "Vertex Average"   pressure point-x50000-yn050-z000 () no no yes ".\\point-pressure1704.out" 1 y flow-time
+
+surface/point-surface point-x50000-y050-z000 50000 50 0 
+solve/monitors/surface/set-monitor/point-x50000-y050-z000 "Vertex Average"   pressure point-x50000-y050-z000 () no no yes ".\\point-pressure1705.out" 1 y flow-time
+surface/point-surface point-x50000-y100-z000 50000 100 0 
+solve/monitors/surface/set-monitor/point-x50000-y100-z000 "Vertex Average"   pressure point-x50000-y100-z000 () no no yes ".\\point-pressure1706.out" 1 y flow-time
+surface/point-surface point-x50000-y150-z000 50000 150 0 
+solve/monitors/surface/set-monitor/point-x50000-y150-z000 "Vertex Average"   pressure point-x50000-y150-z000 () no no yes ".\\point-pressure1707.out" 1 y flow-time
+
+surface/point-surface point-x50000-y000-zn150 50000 0 -150 
+solve/monitors/surface/set-monitor/point-x50000-y000-zn150 "Vertex Average"   pressure point-x50000-y000-zn150 () no no yes ".\\point-pressure1708.out" 1 y flow-time
+surface/point-surface point-x50000-y000-zn100 50000 0 -100 
+solve/monitors/surface/set-monitor/point-x50000-y000-zn100 "Vertex Average"   pressure point-x50000-y000-zn100 () no no yes ".\\point-pressure1709.out" 1 y flow-time
+surface/point-surface point-x50000-y000-zn050 50000 0 -50 
+solve/monitors/surface/set-monitor/point-x50000-y000-zn050 "Vertex Average"   pressure point-x50000-y000-zn050 () no no yes ".\\point-pressure1710.out" 1 y flow-time
+
+surface/point-surface point-x50000-y000-z050 50000 0 50 
+solve/monitors/surface/set-monitor/point-x50000-y000-z050 "Vertex Average"   pressure point-x50000-y000-z050 () no no yes ".\\point-pressure1711.out" 1 y flow-time
+surface/point-surface point-x50000-y000-z100 50000 0 100 
+solve/monitors/surface/set-monitor/point-x50000-y000-z100 "Vertex Average"   pressure point-x50000-y000-z100 () no no yes ".\\point-pressure1712.out" 1 y flow-time
+surface/point-surface point-x50000-y000-z150 50000 0 150 
+solve/monitors/surface/set-monitor/point-x50000-y000-z150 "Vertex Average"   pressure point-x50000-y000-z150 () no no yes ".\\point-pressure1713.out" 1 y flow-time
+
+
+
+
+
